@@ -2,7 +2,7 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 
 
-<suite thread-count="50" name="Suite" parallel="tests">
+<suite thread-count="70" name="Suite" parallel="tests">
 
 	<test name="Customer">
 		<classes>
